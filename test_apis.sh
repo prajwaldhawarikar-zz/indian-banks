@@ -1,5 +1,5 @@
 #!/bin/bash
-BASE_URL='https://gentle-springs-35225.herokuapp.com/api'
+BASE_URL='https://pure-hollows-88075.herokuapp.com/api'
 TOKEN="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDU5MzU0MDAwMDB9.Ja8kfTKzDsQfS-dcy8XOyj5K3bEl1Bg-QmgOPXuQWBI"
 AUTH_HEADER="Authorization: Bearer $TOKEN"
 
